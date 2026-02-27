@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+        "aiforddd-unified-mcp": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "https://github.com/faparicior/aiforddd-unified-mcp/releases/download/v1.0.0-alpha.1/aiforddd-unified-mcp-1.0.0-alpha.1.tgz"
+            ],
+            "env": {}
+        }
+    }
+}
